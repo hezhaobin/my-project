@@ -1,1 +1,2 @@
 just a test for git credential manager
+add another sentence
